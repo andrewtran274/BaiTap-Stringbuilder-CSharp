@@ -1,0 +1,15 @@
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.csproj.AssemblyReference.cache
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.AssemblyInfoInputs.cache
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.AssemblyInfo.cs
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.csproj.CoreCompileInputs.cache
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\bin\Debug\net7.0\BaiTap-StringBuilder.exe
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\bin\Debug\net7.0\BaiTap-StringBuilder.deps.json
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\bin\Debug\net7.0\BaiTap-StringBuilder.runtimeconfig.json
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\bin\Debug\net7.0\BaiTap-StringBuilder.dll
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\bin\Debug\net7.0\BaiTap-StringBuilder.pdb
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.dll
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\refint\BaiTap-StringBuilder.dll
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.pdb
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\BaiTap-StringBuilder.genruntimeconfig.cache
+C:\C#\learn\BaiTap-StringBuilder\BaiTap-StringBuilder\obj\Debug\net7.0\ref\BaiTap-StringBuilder.dll
